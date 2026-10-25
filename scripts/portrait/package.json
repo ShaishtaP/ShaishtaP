@@ -1,0 +1,13 @@
+{
+  "name": "profile-portrait",
+  "private": true,
+  "type": "module",
+  "description": "Local-only: turns a photo into the self-typing ASCII portrait (ascii-portrait.svg). Not used by the daily workflow.",
+  "scripts": {
+    "portrait": "node make-ascii.mjs"
+  },
+  "dependencies": {
+    "@imgly/background-removal-node": "1.4.5",
+    "sharp": "0.33.5"
+  }
+}

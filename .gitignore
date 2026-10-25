@@ -1,0 +1,9 @@
+node_modules/
+# never commit the source photo or the prepped image
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
+.claude/
+preview.html

@@ -1,24 +1,37 @@
-Hello!
-I'm Shaishta,a B.Tech CSE graduate with a strong interest in DevSecOps, Cloud Computing, and Automation. I love building efficient workflows that bridge the gap between development and operations.<br><br>💡 What I’m Currently Doing:<br>🌐 Exploring cloud platform AWS <br><br>🛠️ Building real-world DevOps projects<br><br>🐳 Gaining hands-on experience with Docker, Kubernetes, and Terraform<br><br>🔁 Setting up CI/CD pipelines and automating deployment workflows<br><br>🧰 Tools & Technologies I Use:<br>☁️ Cloud: AWS, Azure<br><br>📦 Containers: Docker, Kubernetes<br><br>🔧 DevOps Tools: GitHub Actions, Jenkins, Terraform<br><br>🐧 OS: Linux<br><br>🐍 Languages: Python, Bash<br><br>🚀 Goals:<br>To become a skilled DevOps Engineer who builds scalable, secure, and automated systems that make development and deployment seamless.<br><br>
+<div align="center">
 
+<h3><code>shaishta@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution graph for the last year" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaishta-p-24shzf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaishta24@gmail.com) 
+<br><br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShaishtaP&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShaishtaP&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaishtaP&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h3><code>shaishta@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="ASCII portrait of Shaishta Parween" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Shaishta Parween - Software Engineer, DevOps and Cloud. B.Tech CSE 2026. Ex-DevOps Intern at PearlThoughts and Summer Intern at DRDO." /></td>
+  </tr>
+</table>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShaishtaP&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3><code>shaishta@github ~ $ ls ~/projects</code></h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=ShaishtaP&icon=0&color=0)](https://visitcount.itsvg.in)
+| Project | What it is | Stack | Links |
+|:--|:--|:--|:--|
+| **Finova** | AI money engine: auto-categorises 95%+ of transactions with Gemini | React · FastAPI · PostgreSQL · Redis · AWS | [live](https://ai-finance-yct4.vercel.app/) |
+| **Campus Event Manager** | Event approvals and registration with role-based dashboards | Next.js · TypeScript · MongoDB · RBAC | [code](https://github.com/ShaishtaP/Event-Management-) · [live](https://event-management-ttdj.vercel.app/) |
+| **Medusa on ECS Fargate** | Terraform IaC + GitHub Actions CD for a Medusa backend | Terraform · AWS ECS · Fargate · GitHub Actions | [code](https://github.com/ShaishtaP/IaC-Terraform-Medusa-AWS-ECS-Fargate-CD-GitHub-Actions) |
+| **Strapi deploy automation** | Dockerised Strapi with automated build and deploy | Docker · GitHub Actions · AWS · Nginx | [code](https://github.com/ShaishtaP/strapi-deploy-automation) |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<h3><code>shaishta@github ~ $ cat contact.txt</code></h3>
+
+[linkedin.com/in/shaishta-p-24shzf](https://www.linkedin.com/in/shaishta-p-24shzf/) &nbsp;·&nbsp; [shaishta.dev@gmail.com](mailto:shaishta.dev@gmail.com)
+
+<br>
+
+<sub>all art on this page is plain SVG generated by <a href="./scripts">./scripts</a> · the contribution graph refreshes daily via GitHub Actions</sub>
+
+</div>

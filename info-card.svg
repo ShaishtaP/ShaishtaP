@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="522" viewBox="0 0 490 522" role="img" aria-label="Shaishta Parween - Software Engineer, DevOps and Cloud">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .l { opacity: 0; animation: in .35s ease-out forwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="489" height="521" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="22" cy="20" r="5.5" fill="#ff5f56"/><circle cx="40" cy="20" r="5.5" fill="#ffbd2e"/><circle cx="58" cy="20" r="5.5" fill="#27c93f"/>
+  <text x="245" y="24" text-anchor="middle" font-size="12" fill="#8b949e">neofetch</text>
+  <line x1="0" y1="38" x2="490" y2="38" stroke="#21262d"/>
+  <g class="l" style="animation-delay:2.20s"><text x="22" y="66" font-size="14" font-weight="700"><tspan fill="#39d353">shaishta</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#39d353">github</tspan></text><text x="22" y="78" font-size="13" fill="#8b949e">---------------</text></g>
+  <g class="l" style="animation-delay:2.29s"><text x="22" y="95.6" font-size="13"><tspan fill="#58a6ff" font-weight="700">Name:</tspan></text><text x="84" y="95.6" font-size="13" fill="#c9d1d9">Shaishta Parween</text></g>
+  <g class="l" style="animation-delay:2.38s"><text x="22" y="117.19999999999999" font-size="13"><tspan fill="#58a6ff" font-weight="700">Role:</tspan></text><text x="84" y="117.19999999999999" font-size="13" fill="#c9d1d9">Software Engineer · DevOps &amp; Cloud</text></g>
+  <g class="l" style="animation-delay:2.47s"><text x="22" y="138.79999999999998" font-size="13"><tspan fill="#58a6ff" font-weight="700">Edu:</tspan></text><text x="84" y="138.79999999999998" font-size="13" fill="#c9d1d9">B.Tech CSE '26 · GPA 9.34/10</text></g>
+  <g class="l" style="animation-delay:2.56s"><text x="22" y="160.39999999999998" font-size="13"><tspan fill="#58a6ff" font-weight="700">Loc:</tspan></text><text x="84" y="160.39999999999998" font-size="13" fill="#c9d1d9">New Delhi, India</text></g>
+  <g class="l" style="animation-delay:2.65s"><text x="22" y="193.87999999999997" font-size="13"><tspan fill="#58a6ff" font-weight="700">Prev:</tspan></text><text x="84" y="193.87999999999997" font-size="13" fill="#c9d1d9">DevOps Intern @ PearlThoughts</text></g>
+  <g class="l" style="animation-delay:2.74s"><text x="22" y="215.47999999999996" font-size="13"><tspan fill="#58a6ff" font-weight="700"></tspan></text><text x="84" y="215.47999999999996" font-size="13" fill="#c9d1d9">Summer Intern @ DRDO (AppSec)</text></g>
+  <g class="l" style="animation-delay:2.83s"><text x="22" y="248.95999999999995" font-size="13"><tspan fill="#58a6ff" font-weight="700">Lang:</tspan></text><text x="84" y="248.95999999999995" font-size="13" fill="#c9d1d9">C++  Python  TypeScript  SQL</text></g>
+  <g class="l" style="animation-delay:2.92s"><text x="22" y="270.55999999999995" font-size="13"><tspan fill="#58a6ff" font-weight="700">Web:</tspan></text><text x="84" y="270.55999999999995" font-size="13" fill="#c9d1d9">React  Next.js  Node  FastAPI</text></g>
+  <g class="l" style="animation-delay:3.01s"><text x="22" y="292.15999999999997" font-size="13"><tspan fill="#58a6ff" font-weight="700">Cloud:</tspan></text><text x="84" y="292.15999999999997" font-size="13" fill="#c9d1d9">AWS  Docker  Terraform  GH Actions</text></g>
+  <g class="l" style="animation-delay:3.10s"><text x="22" y="313.76" font-size="13"><tspan fill="#58a6ff" font-weight="700">Data:</tspan></text><text x="84" y="313.76" font-size="13" fill="#c9d1d9">PostgreSQL  MongoDB  Redis</text></g>
+  <g class="l" style="animation-delay:3.19s"><text x="22" y="347.24" font-size="13" font-weight="700" fill="#58a6ff">Highlights</text></g>
+  <g class="l" style="animation-delay:3.28s"><text x="22" y="368.84000000000003" font-size="13"><tspan fill="#8b949e">›</tspan> <tspan fill="#e3b341" font-weight="700">-40%</tspan> <tspan fill="#c9d1d9">deploy time · Actions + Docker CI/CD</tspan></text></g>
+  <g class="l" style="animation-delay:3.37s"><text x="22" y="390.44000000000005" font-size="13"><tspan fill="#8b949e">›</tspan> <tspan fill="#e3b341" font-weight="700">99.9%</tspan> <tspan fill="#c9d1d9">uptime · Strapi on AWS ECS + Nginx</tspan></text></g>
+  <g class="l" style="animation-delay:3.46s"><text x="22" y="412.0400000000001" font-size="13"><tspan fill="#8b949e">›</tspan> <tspan fill="#e3b341" font-weight="700">95%+</tspan> <tspan fill="#c9d1d9">txns auto-tagged · Finova (Gemini)</tspan></text></g>
+  <g class="l" style="animation-delay:3.55s"><text x="22" y="433.6400000000001" font-size="13"><tspan fill="#8b949e">›</tspan> <tspan fill="#e3b341" font-weight="700">&lt;200ms</tspan> <tspan fill="#c9d1d9">API responses · FastAPI + Redis</tspan></text></g>
+  <g class="l" style="animation-delay:3.64s"><text x="22" y="467.1200000000001" font-size="13"><tspan fill="#58a6ff" font-weight="700">Mail:</tspan></text><text x="84" y="467.1200000000001" font-size="13" fill="#c9d1d9">shaishta.dev@gmail.com</text></g>
+  <g class="l" style="animation-delay:3.73s"><rect x="22" y="480.72000000000014" width="24" height="14" fill="#484f58"/><rect x="48" y="480.72000000000014" width="24" height="14" fill="#ff7b72"/><rect x="74" y="480.72000000000014" width="24" height="14" fill="#39d353"/><rect x="100" y="480.72000000000014" width="24" height="14" fill="#e3b341"/><rect x="126" y="480.72000000000014" width="24" height="14" fill="#58a6ff"/><rect x="152" y="480.72000000000014" width="24" height="14" fill="#bc8cff"/><rect x="178" y="480.72000000000014" width="24" height="14" fill="#39c5cf"/><rect x="204" y="480.72000000000014" width="24" height="14" fill="#f0f6fc"/></g>
+</svg>
