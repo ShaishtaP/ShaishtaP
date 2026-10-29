@@ -1,15 +1,15 @@
 {
   "user": "ShaishtaP",
-  "fetchedAt": "2026-10-28T13:07:20.583Z",
+  "fetchedAt": "2026-10-29T13:13:21.323Z",
   "stats": {
-    "total": 34,
-    "activeDays": 10,
-    "currentStreak": 3,
-    "longestStreak": 4,
+    "total": 53,
+    "activeDays": 12,
+    "currentStreak": 5,
+    "longestStreak": 5,
     "bestDay": {
-      "date": "2026-06-10",
+      "date": "2026-10-28",
       "level": 4,
-      "count": 5
+      "count": 14
     }
   },
   "monthly": {
@@ -25,7 +25,7 @@
     "2026-07": 0,
     "2026-08": 0,
     "2026-09": 0,
-    "2026-10": 25
+    "2026-10": 44
   },
   "days": [
     {
@@ -130,7 +130,7 @@
     },
     {
       "date": "2025-11-15",
-      "level": 4,
+      "level": 2,
       "count": 4
     },
     {
@@ -1165,7 +1165,7 @@
     },
     {
       "date": "2026-06-10",
-      "level": 4,
+      "level": 2,
       "count": 5
     },
     {
@@ -1825,22 +1825,22 @@
     },
     {
       "date": "2026-10-20",
-      "level": 2,
+      "level": 1,
       "count": 2
     },
     {
       "date": "2026-10-21",
-      "level": 4,
+      "level": 2,
       "count": 4
     },
     {
       "date": "2026-10-22",
-      "level": 4,
+      "level": 2,
       "count": 4
     },
     {
       "date": "2026-10-23",
-      "level": 3,
+      "level": 1,
       "count": 3
     },
     {
@@ -1850,23 +1850,28 @@
     },
     {
       "date": "2026-10-25",
-      "level": 4,
+      "level": 2,
       "count": 4
     },
     {
       "date": "2026-10-26",
-      "level": 2,
+      "level": 1,
       "count": 2
     },
     {
       "date": "2026-10-27",
-      "level": 4,
+      "level": 2,
       "count": 5
     },
     {
       "date": "2026-10-28",
-      "level": 0,
-      "count": 0
+      "level": 4,
+      "count": 14
+    },
+    {
+      "date": "2026-10-29",
+      "level": 2,
+      "count": 5
     }
   ]
 }
