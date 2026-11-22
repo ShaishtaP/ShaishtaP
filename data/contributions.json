@@ -1,11 +1,11 @@
 {
   "user": "ShaishtaP",
-  "fetchedAt": "2026-11-21T14:45:09.813Z",
+  "fetchedAt": "2026-11-22T14:41:54.168Z",
   "stats": {
-    "total": 181,
-    "activeDays": 33,
-    "currentStreak": 27,
-    "longestStreak": 27,
+    "total": 182,
+    "activeDays": 34,
+    "currentStreak": 28,
+    "longestStreak": 28,
     "bestDay": {
       "date": "2026-11-16",
       "level": 4,
@@ -25,44 +25,9 @@
     "2026-08": 0,
     "2026-09": 0,
     "2026-10": 54,
-    "2026-11": 122
+    "2026-11": 123
   },
   "days": [
-    {
-      "date": "2025-11-16",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-18",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-20",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-22",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-11-23",
       "level": 0,
@@ -1880,6 +1845,11 @@
     },
     {
       "date": "2026-11-21",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-11-22",
       "level": 0,
       "count": 0
     }
