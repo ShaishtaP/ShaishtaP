@@ -8,7 +8,6 @@
 <h3><code>shaishta@github ~ $ whoami</code></h3>
 <table>
   <tr>
-    <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="ASCII portrait of Shaishta Parween" /></td>
     <td valign="top"><img src="./info-card.svg" width="490" alt="Shaishta Parween - Software Engineer, DevOps and Cloud. B.Tech CSE 2026. Ex-DevOps Intern at PearlThoughts and Summer Intern at DRDO." /></td>
   </tr>
 </table>
