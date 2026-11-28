@@ -21,7 +21,11 @@ jobs:
           node-version: "22"
       - run: node scripts/fetch-contributions.mjs
       - run: node scripts/render-heatmap.mjs
+      - run: node scripts/fetch-stats.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: node scripts/render-stats.mjs
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "chore: refresh contribution graph and stats [skip ci]"
+          file_pattern: "data/contributions.json data/stats.json contrib-heatmap.svg github-stats.svg top-langs.svg"

@@ -1,0 +1,49 @@
+{
+  "user": "ShaishtaP",
+  "fetchedAt": "2026-11-28T18:36:44.378Z",
+  "publicRepos": 16,
+  "stars": 5,
+  "pullRequests": 1,
+  "languages": [
+    {
+      "name": "JavaScript",
+      "percent": 54.2
+    },
+    {
+      "name": "TypeScript",
+      "percent": 33.8
+    },
+    {
+      "name": "CSS",
+      "percent": 5.5
+    },
+    {
+      "name": "HTML",
+      "percent": 3.6
+    },
+    {
+      "name": "Python",
+      "percent": 1.6
+    },
+    {
+      "name": "PLpgSQL",
+      "percent": 0.6
+    },
+    {
+      "name": "HCL",
+      "percent": 0.3
+    },
+    {
+      "name": "Dockerfile",
+      "percent": 0.3
+    },
+    {
+      "name": "Shell",
+      "percent": 0.1
+    },
+    {
+      "name": "Mako",
+      "percent": 0
+    }
+  ]
+}
